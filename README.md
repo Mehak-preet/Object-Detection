@@ -11,6 +11,18 @@ widely used to recognize objects from the particular image that appears and is u
 them along with their labels. These features are then fed into a regression model that predicts the
 location of the objects on the basis of their classification.
 
+Some of the applications of Object Detection are
+
+●	Video Surveillance: It is one of the major applications of object tracking. Video Surveillance is the activity that keeps on checking all the behaviors and activities happening around. If any illegal or improper behavior is seen then we can call security. It can be seen in automated CCTV surveillance.
+●	Autonomous vehicles: As we know nowadays vehicles are coming in autopilot mode like Tesla Cars, so there we need this technology for the car computer to detect all the obstacles between the road and people.
+●	Crowd Counting: It helps us to count any object or even people in any event or festival.
+●	Tracking Objects: We can track any object or anything with this.
+●	Security: It is used for security purposes and is an advanced method of security. For access control verification and identification of authentic users, it can also be installed in banks and cooperative sectors.
+●	Military Purposes: For the safety of our military and country, It can be proved very beneficial as they can detect any illegal activity and any terrorist coming from Border
+●	Agriculture Sector: It can be useful in the agriculture sector as well
+●	Robots Vision: Robots need this technology as well to be more dynamic and improved.
+●	Bomb Detection: This can be one of the most important applications. By inserting /placing this software in a pen or eyeglasses, we can detect  any anonymous thing in a market, city, or military basement.
+
 Output:
 
 ![image](https://user-images.githubusercontent.com/55393019/170027783-7c323b58-2845-4037-8b1c-f273ee2f9c46.png)
