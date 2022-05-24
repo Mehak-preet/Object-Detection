@@ -12,5 +12,8 @@ them along with their labels. These features are then fed into a regression mode
 location of the objects on the basis of their classification.
 
 Output:
+
+![image](https://user-images.githubusercontent.com/55393019/170027783-7c323b58-2845-4037-8b1c-f273ee2f9c46.png)
+
 ![image](https://user-images.githubusercontent.com/55393019/170027253-0ed6f649-2049-4ef4-af18-b8c4e6331e25.png)
 
